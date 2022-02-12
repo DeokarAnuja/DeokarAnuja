@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DeokarAnuja
 - 👀 I’m interested Data Science and Machine learning.
-- 🌱 I’m currently learning MachineLearning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on python Projects
 - 📫 anujadeokar28@gmail.com
 
